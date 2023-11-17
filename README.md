@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zach</h1>
 <h3 align="center">A ferocious & fun filled fullstack developer!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zacharyjarnagin" alt="zacharyjarnagin" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zacharyjarnagin&theme=onedark" alt="zacharyjarnagin" /></a> </p>
 
 - 🔭 I’m currently working on [EnergySage's onboarding flow](https://www.energysage.com/)
 
